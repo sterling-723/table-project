@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgba(242, 173, 0, 0.982);
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: darkcyan;
+}
+
+table {
+  border: darkslategrey 2.5px solid;
+  width: 650px;
+  margin: auto;
+}
+
+thead {
+  font-weight: bold;
+  background-color: rgb(184, 184, 244);
+}
+
+tbody {
+  text-align: left;
+}
+
+td {
+  border-top: darkslategray 1px solid;
+}
+
+span {
+  background-color: lightgoldenrodyellow;
+  font-family: monospace;
+}
